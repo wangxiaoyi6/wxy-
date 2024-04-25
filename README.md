@@ -1,3 +1,4 @@
+软件研23-1 王小怡 472321751
 # CMCAN
 
 Implementation of our AAAI2022 paper, Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching.
